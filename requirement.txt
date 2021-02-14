@@ -3,7 +3,6 @@ distlib==0.3.1
 filelock==3.0.12
 six==1.15.0
 virtualenv==20.4.2
-voila
 fastai>=2
 pillow<7
 packaging
@@ -12,4 +11,9 @@ bqplot
 ipympl
 ipyvolume
 scipy
-voila
+pandas
+voila>=0.1.8
+ipyvuetify>=0.1.9
+voila-vuetify>=0.0.1a6
+bqplot
+numpy
