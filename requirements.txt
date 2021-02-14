@@ -109,20 +109,3 @@ webencodings==0.5.1
 widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1594164347302/work
 zipp==3.1.0
 zope.interface==5.2.0
-
-
-bqplot
-ipympl
-ipyvolume
-scipy
-voila
-packaging
-pandas
-numpy
-plotly
-base
-datetime
-sklearn
-scikit-learn
-seaborn
-numpy
