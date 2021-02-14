@@ -135,7 +135,6 @@ regex
 requests 
 retrying==1.3.3
 rope
-Rtree==0.9.4
 scikit-image==0.17.2
 scikit-learn 
 scikit-multilearn==0.2.0
