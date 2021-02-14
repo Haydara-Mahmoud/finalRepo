@@ -163,8 +163,7 @@ SQLAlchemy
 statsmodels==0.12.0
 sympy 
 tables==3.6.1
-tblib 
-terminado==0.9.1
+tblib
 testpath==0.4.4
 threadpoolctl 
 tifffile==2020.10.1
