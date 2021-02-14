@@ -10,6 +10,6 @@ plotly
 
 datetime
 sklearn
-skmultilearn
+scikit-learn
 seaborn
 numpy
