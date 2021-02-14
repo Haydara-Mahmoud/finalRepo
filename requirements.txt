@@ -8,7 +8,6 @@ pandas
 numpy
 plotly
 base
-base64
 datetime
 sklearn
 scikit-learn
