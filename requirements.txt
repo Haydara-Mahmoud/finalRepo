@@ -6,3 +6,10 @@ voila
 packaging
 pandas
 numpy
+plotly
+random
+datetime
+sklearn
+skmultilearn
+seaborn
+numpy
